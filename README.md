@@ -1,2 +1,2 @@
 # pwp-photo-gallery
-Photo Gallery for Sisters' Artwork
+Photo Gallery to share sisters' artwork
