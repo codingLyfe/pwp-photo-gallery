@@ -35,7 +35,7 @@
 			<li>Creative imagery</li>
 			<li>A story in picture form</li>
 		</ul>
-		<h3>Dislikes</h3>
+		<h2>Dislikes</h2>
 		<ul>
 			<li>Heavily edited digital images</li>
 			<li>Abstract art</li>
