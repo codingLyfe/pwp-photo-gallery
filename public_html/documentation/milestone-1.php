@@ -12,7 +12,6 @@
 		<ul>
 			<li>Other Artists</li>
 			<li>Friends/Family</li>
-			<li>Online Portfolio</li>
 		</ul>
 		<h2>Goal</h2>
 		<p>This site will serve as a platform to showcase both hand drawn and digital artwork</p>
@@ -31,7 +30,7 @@
 		<ul>
 			<li>Clean Presentation</li>
 			<li>Differing Styles</li>
-			<li>Creative imagry</li>
+			<li>Creative imagery</li>
 			<li>A story in picture form</li>
 		</ul>
 		<h3>Dislikes</h3>
