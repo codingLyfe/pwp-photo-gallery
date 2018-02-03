@@ -14,3 +14,34 @@ Nice work. I'm really looking forward to seeing this project take shape. Your Mi
 
 ### Edits &amp; Suggestions
 - Move your `/images` directory inside `/documentation`. This will keep your Milestone documentation images isolated from the rest of your project going forward.
+
+## Milestone 2&alpha; Feedback
+I'm really looking forward to what you create here. I do want to advise caution, as this project can quickly become time consuming and complex due to the intricacies of the UI and the number of images and accompanying content that need to be included.
+
+How many images are you planning to feature? Will there be so many that the page length will be sufficiently long to make  sidebar navigation necessary? If not I might consider removing it. Or maybe a filter feature might be nice? (warning: this is more difficult to do) See: https://isotope.metafizzy.co/index.html
+
+If you wanted to stick with the scrolling thumbnails instead, I'd consider using [Flickity](https://flickity.metafizzy.co) to power that. It's responsive and touch-enabled for mobile. Either way, based on the functionality you want to feature here you're looking at the integration of a couple of JavaScript tools to do the job well. Be prepared that this could present some challenges.
+
+For the lightbox: one of my favorite JS-driven gallery plugins is [FancyBox3](http://fancyapps.com/fancybox/3/). It's touch/swipe enabled, responsive, and easy to integrate. 
+
+Working with imagery has it's own challenges as well. I'm hoping that your artist can easily provide you with web-friendly image sets without any problems - this is important. If not, you'll have to process and export the imagery yourself. I can definitely help in that regard should you need it. 
+
+It's ideal if you have a smaller thumbnail set alongside a full-size set, but not totally necessary. Some additional considerations when working with images:
+- Keep the aspect ratios consistent across the entire image set. Both landscape and portrait images should all have the same proportions/aspect ratios between them. This will contribute to a far more professional presentation, and will also make your development easer.
+- Recommended that the long axis of each image be the same dimension if possible.
+- 72-96 ppi resolution for standard web applications
+- Recommend max file size ~600kb. Ideally less.
+- .jpeg, .png, .gif formats only for images. SVG ok for vector graphics. (No .tiff, no .bmp). jpeg format preferred for photographs.
+- SEO-aware file names and good `alt` text content recommended
+
+All-in-all this could be an awesome, beautiful, potentially complex, and possibly very time-consuming project. I'm really looking forward to seeing it come together. Err on the side of simplicity if you can, workload is only increasing from here on out. 
+
+There's a small directory structure change that needs to be made - see Edits &amp; Suggestions below. Otherwise everything looks great. 
+
+Build your PWP in a file named `index.php` inside `/public_html`. CSS, images, and JS directories should be siblings to `/documentation.` We won't be using the `/documentation` directory any longer.
+
+Your Milestone 1 passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development!
+
+### Edits &amp; Suggestions
+- **Move the `/images` directory inside `/documentation` so they don't get mixed up with the rest of the project. I see this fix is leftover from the Milestone One feedback! This needs to be done prior to development.**
+
