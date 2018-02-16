@@ -17,7 +17,7 @@
 		<p>This site will serve as a platform to showcase both hand drawn and digital artwork</p>
 		<h2>Persona</h2>
 		<p>Margret Jackson</p>
-		<img src="../../images/persona-margret-pwp.jpg" alt = "Persona Margret Jackson Image"/>
+		<img src="images/persona-margret-pwp.jpg" alt = "Persona Margret Jackson Image"/>
 		<ul>
 			<li>Age: 38</li>
 			<li>Job: Middle School Art Teacher</li>
