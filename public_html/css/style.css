@@ -1,5 +1,6 @@
 body {
-	background-color: gray;
+	background-color: black;
+	color: white;
 }
 
 h1 {
@@ -10,3 +11,12 @@ img {
 	width: 200px;
 	height: 300px;
 }
+
+/*.gradient {*/
+
+	/*background-image:*/
+		/*linear-gradient(*/
+			/*to top left,*/
+			/*black, blue*/
+		/*);*/
+/*}*/
