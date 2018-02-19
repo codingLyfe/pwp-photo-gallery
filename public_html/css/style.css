@@ -12,6 +12,11 @@ img {
 	height: 300px;
 }
 
+.container > form {
+	background-color: green;
+	margin: 2em;
+}
+
 /*.gradient {*/
 
 	/*background-image:*/

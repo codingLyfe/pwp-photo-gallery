@@ -40,23 +40,23 @@
 			<div class="container">
 				<h2>Dragons</h2>
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/dragon-heart-img.jpg" data-fancybox
 							data-caption="This image depicts light and dark in a dance of life!">
 							<img class="img-thumbnail" src="images/dragons/dragon-heart-img.jpg" alt="dragons forming heart"/>
 						</a>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/fantasy-dragon.jpg" data-fancybox data-caption="fantasy dragon)">
 							<img class="img-thumbnail" src="images/dragons/fantasy-dragon.jpg" alt="fantasy style dragon"/>
 						</a>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/green-dragon.jpg" data-fancybox data-caption="green dragon)">
 							<img class="img-thumbnail" src="images/dragons/green-dragon.jpg" alt="green dragon"/>
 						</a>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/hand-drawn-dragon.png" data-fancybox data-caption="hand drawn dragon)">
 							<img class="img-thumbnail" src="images/dragons/hand-drawn-dragon.png" alt="hand drawn dragon"/>
 						</a>
@@ -65,59 +65,59 @@
 			</div>
 
 
-			<div class="container">
-				<h2>Landscape</h2>
-				<div class="row">
-					<div class="col-md-3">
-						<a href="images/landscape/fantasy-landscape.jpg" data-fancybox data-caption="fantasy landscape">
-							<img class="img-thumbnail" src="images/landscape/fantasy-landscape.jpg" alt="fantasy landscape"/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="images/landscape/hand-drawn-landscape.jpg" data-fancybox data-caption="hand drawn landscape">
-							<img class="img-thumbnail" src="images/landscape/hand-drawn-landscape.jpg"
-								  alt="hand drawn landscape"/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="images/landscape/painted-landscape.JPG" data-fancybox data-caption="painted landscape">
-							<img class="img-thumbnail" src="images/landscape/painted-landscape.JPG" alt="painted landscape"/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="images/landscape/horse-in-field.png" data-fancybox data-caption="horse in field">
-							<img class="img-thumbnail" src="images/landscape/horse-in-field.png" alt="horse in field"/>
-						</a>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="container">
-				<h2>Abstract</h2>
-				<div class="row">
-					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
-							<img class="img-thumbnail" src="" alt=""/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
-							<img class="img-thumbnail" src="" alt=""/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
-							<img class="img-thumbnail" src="" alt=""/>
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
-							<img class="img-thumbnail" src="" alt=""/>
-						</a>
-					</div>
-				</div>
-			</div>
+<!--			<div class="container">-->
+<!--				<h2>Landscape</h2>-->
+<!--				<div class="row">-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="images/landscape/fantasy-landscape.jpg" data-fancybox data-caption="fantasy landscape">-->
+<!--							<img class="img-thumbnail" src="images/landscape/fantasy-landscape.jpg" alt="fantasy landscape"/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="images/landscape/hand-drawn-landscape.jpg" data-fancybox data-caption="hand drawn landscape">-->
+<!--							<img class="img-thumbnail" src="images/landscape/hand-drawn-landscape.jpg"-->
+<!--								  alt="hand drawn landscape"/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="images/landscape/painted-landscape.JPG" data-fancybox data-caption="painted landscape">-->
+<!--							<img class="img-thumbnail" src="images/landscape/painted-landscape.JPG" alt="painted landscape"/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="images/landscape/horse-in-field.png" data-fancybox data-caption="horse in field">-->
+<!--							<img class="img-thumbnail" src="images/landscape/horse-in-field.png" alt="horse in field"/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!---->
+<!---->
+<!--			<div class="container">-->
+<!--				<h2>Abstract</h2>-->
+<!--				<div class="row">-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="" data-fancybox data-caption="">-->
+<!--							<img class="img-thumbnail" src="" alt=""/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="" data-fancybox data-caption="">-->
+<!--							<img class="img-thumbnail" src="" alt=""/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="" data-fancybox data-caption="">-->
+<!--							<img class="img-thumbnail" src="" alt=""/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<a href="" data-fancybox data-caption="">-->
+<!--							<img class="img-thumbnail" src="" alt=""/>-->
+<!--						</a>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
 			<div class="container">
 				<h2>Contact Me</h2>
@@ -133,7 +133,7 @@
 					<div class="form-group">
 						<label for="message">Message</label>
 						<br>
-						<textarea cols="100"  rows="4" name="message" id="message" placeholder="Message"></textarea>
+						<textarea rows="4" name="message" id="message" placeholder="Message" spellcheck="true"></textarea>
 					</div>
 					<br>
 					<input type="submit" value="Submit">
