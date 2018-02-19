@@ -98,22 +98,22 @@
 				<h2>Abstract</h2>
 				<div class="row">
 					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
+						<a href="" data-fancybox="gallery-abstract" data-caption="">
 							<img class="img-thumbnail" src="" alt=""/>
 						</a>
 					</div>
 					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
+						<a href="" data-fancybox="gallery-abstract" data-caption="">
 							<img class="img-thumbnail" src="" alt=""/>
 						</a>
 					</div>
 					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
+						<a href="" data-fancybox="gallery-abstract" data-caption="">
 							<img class="img-thumbnail" src="" alt=""/>
 						</a>
 					</div>
 					<div class="col-md-3">
-						<a href="" data-fancybox data-caption="">
+						<a href="" data-fancybox="gallery-abstract" data-caption="">
 							<img class="img-thumbnail" src="" alt=""/>
 						</a>
 					</div>

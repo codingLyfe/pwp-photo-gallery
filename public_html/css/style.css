@@ -1,3 +1,5 @@
+
+/* Global CSS */
 body {
 	background-color: black;
 	color: white;
@@ -7,11 +9,18 @@ h1 {
 	text-align: center;
 }
 
+/************************************************/
+
+/* thumbnail size*/
 img {
 	width: 200px;
 	height: 300px;
+	margin-bottom: 3em;
 }
 
+/************************************************/
+
+/* Form CSS */
 .container > form {
 	padding: 2em;
 	margin-left: 10%;
@@ -22,16 +31,17 @@ textarea {
 	width: 100%;
 }
 
-img {
-	margin-bottom: 3em;
-}
+/************************************************/
 
+/* Footer CSS */
 footer {
 	text-align: center;
 }
 
-.gradient {
+/************************************************/
 
+/* Background */
+.gradient {
 	background-image:
 		linear-gradient(
 		to bottom right,
