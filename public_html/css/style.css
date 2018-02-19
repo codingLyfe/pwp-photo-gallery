@@ -17,6 +17,21 @@ img {
 	margin: 2em;
 }
 
+h2:last-child {
+	text-align: center;
+}
+
+
+textarea {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+img {
+	margin-bottom: 3em;
+}
+
+
 /*.gradient {*/
 
 	/*background-image:*/
