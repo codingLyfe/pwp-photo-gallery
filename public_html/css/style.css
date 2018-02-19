@@ -13,14 +13,9 @@ img {
 }
 
 .container > form {
-	background-color: green;
-	margin: 2em;
+	padding: 2em;
+	margin-left: 10%;
 }
-
-h2:last-child {
-	text-align: center;
-}
-
 
 textarea {
 	box-sizing: border-box;
@@ -31,12 +26,15 @@ img {
 	margin-bottom: 3em;
 }
 
+footer {
+	text-align: center;
+}
 
-/*.gradient {*/
+.gradient {
 
-	/*background-image:*/
-		/*linear-gradient(*/
-			/*to top left,*/
-			/*black, blue*/
-		/*);*/
-/*}*/
+	background-image:
+		linear-gradient(
+		to bottom right,
+			blue, black 20%
+		);
+}

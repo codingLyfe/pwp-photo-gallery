@@ -142,6 +142,9 @@
 				</form>
 			</div>
 
+			<footer>
+				<p class="muted">All content is intended for educational and professional purposes.</p>
+			</footer>
 		</div>
 	</body>
 </html>
