@@ -136,22 +136,35 @@
 				<form id="contactForm" action="php/mailer.php" method="post">
 					<div class="form-group col-sm-8">
 						<label for="name">Name</label>
-						<input type="text" class="form-control" id="name" placeholder="Name">
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
 					<div class="form-group col-sm-8">
 						<label for="email">Email</label>
-						<input type="email" class="form-control" id="email" placeholder="jane123@gmail.com">
+						<input type="email" class="form-control" id="email" name="email" placeholder="jane123@gmail.com">
+					</div>
+					<div class="form-group">
+						<label for="subject">Subject</label>
+						<input type="text" id="subject" name="subject" placeholder="subject">
 					</div>
 					<div class="form-group col-sm-8">
 						<label for="message">Message</label>
 						<br>
 						<textarea rows="4" name="message" id="message" placeholder="Message" spellcheck="true"></textarea>
 					</div>
+					<!-- reCAPTCHA -->
+					<div class="g-recaptcha" data-sitekey="6Ldt_UcUAAAAAE9hwtcV3yuMNdQg0hnH6LsXjJlo"></div>
 					<br>
 					<input type="submit" value="Submit">
 					<input type="reset">
 				</form>
-				<div id="output-area"></div>
+
+				<!--empty area for form error/success output-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div id="output-area"></div>
+					</div>
+				</div>
+
 			</div>
 
 
