@@ -28,10 +28,20 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
 				  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 				  crossorigin="anonymous"></script>
+
 		<!-- Fancy Box JS -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
-<!--		<script src="jquery.fancybox.min.js"></script>-->
-<!--		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>-->
+
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	</head>
 	<body class="">
@@ -123,7 +133,7 @@
 			<br>
 			<div class="container">
 				<h2>Contact Me</h2>
-				<form action="">
+				<form id="contactForm" action="php/mailer.php" method="post">
 					<div class="form-group col-sm-8">
 						<label for="name">Name</label>
 						<input type="text" class="form-control" id="name" placeholder="Name">
@@ -141,7 +151,9 @@
 					<input type="submit" value="Submit">
 					<input type="reset">
 				</form>
+				<div id="output-area"></div>
 			</div>
+
 
 			<footer>
 				<p class="muted">All content is intended for educational and professional purposes.</p>
