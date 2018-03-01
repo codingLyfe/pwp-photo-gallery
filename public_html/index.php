@@ -142,9 +142,9 @@
 						<label for="email">Email</label>
 						<input type="email" class="form-control" id="email" name="email" placeholder="jane123@gmail.com">
 					</div>
-					<div class="form-group">
+					<div class="form-group col-sm-8">
 						<label for="subject">Subject</label>
-						<input type="text" id="subject" name="subject" placeholder="subject">
+						<input type="text" class="form-control" id="subject" name="subject" placeholder="subject">
 					</div>
 					<div class="form-group col-sm-8">
 						<label for="message">Message</label>
