@@ -1,9 +1,10 @@
+# this forces SSL connection
+RewriteCond %{HTTPS} !=on
+RewriteRule (.*) https://fantasywings.design/$1 [L]
+
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^fantasywings.design$ [NC,OR]
 RewriteCond %{HTTP_HOST} ^www.fantasywings.design$
 RewriteCond %{REQUEST_URI} !public_html/
 RewriteRule (.*) /public_html/$1 [L]
 
-# this forces SSL connection
-RewriteCond %{HTTPS} !=on
-RewriteRule (.*) https://fantasywings.design/$1 [L]
