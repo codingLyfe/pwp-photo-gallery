@@ -44,9 +44,12 @@
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	</head>
-	<body class="">
+	<body>
 		<div class="gradient">
+
+
 			<h1>Imagination L.A.B.</h1>
+
 
 			<div class="container">
 				<h2>Dragons</h2>
@@ -58,16 +61,6 @@
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/dragons/dragon-earth.jpg" data-fancybox="gallery-dragon" data-caption="Earth Crystal">
-							<img class="img-thumbnail" src="images/dragons/dragon-earth.jpg" alt="Earth Crystal Dragon"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/dragons/dragon-eyes.jpg" data-fancybox="gallery-dragon" data-caption="Look and you shall see">
-							<img class="img-thumbnail" src="images/dragons/dragon-eyes.jpg" alt="eyes of dragons"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/dragon-fast-furious.jpg" data-fancybox="gallery-dragon" data-caption="Fast and Furious (Member of Chamber Dragon Series)">
 							<img class="img-thumbnail" src="images/dragons/dragon-fast-furious.jpg" alt="fast and furious dragon"/>
 						</a>
@@ -75,16 +68,6 @@
 					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/dragon-greed.jpg" data-fancybox="gallery-dragon" data-caption="Greed (Member of Chamber Dragon Series)">
 							<img class="img-thumbnail" src="images/dragons/dragon-greed.jpg" alt="Dragon Greed"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/dragons/dragon-magic-play.jpg" data-fancybox="gallery-dragon" data-caption="Magic Play">
-							<img class="img-thumbnail" src="images/dragons/dragon-magic-play.jpg" alt="Magic Play Dragon"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/dragons/dragon-majestic.jpg" data-fancybox="gallery-dragon" data-caption="Majestic Dragon">
-							<img class="img-thumbnail" src="images/dragons/dragon-majestic.jpg" alt="Majestic Dragon"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
@@ -118,11 +101,6 @@
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/dragons/dragon-what.jpg" data-fancybox="gallery-dragon" data-caption="What did you Say!?!?">
-							<img class="img-thumbnail" src="images/dragons/dragon-what.jpg" alt="Questioning Dragon"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/dragons/dragon-wild-free.jpg" data-fancybox="gallery-dragon" data-caption="Wild and Free (Member of Chamber Dragon Series)">
 							<img class="img-thumbnail" src="images/dragons/dragon-wild-free.jpg" alt="Wild and Free Dragon"/>
 						</a>
@@ -137,6 +115,31 @@
 							<img class="img-thumbnail" src="images/dragons/dragon-wizards-touch.jpg" alt="Wizard's Touch Dragon"/>
 						</a>
 					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/dragons/dragon-earth.jpg" data-fancybox="gallery-dragon" data-caption="Earth Crystal">
+							<img class="img-thumbnail" src="images/dragons/dragon-earth.jpg" alt="Earth Crystal Dragon"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/dragons/dragon-eyes.jpg" data-fancybox="gallery-dragon" data-caption="Look and you shall see">
+							<img class="img-thumbnail" src="images/dragons/dragon-eyes.jpg" alt="eyes of dragons"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/dragons/dragon-magic-play.jpg" data-fancybox="gallery-dragon" data-caption="Magic Play">
+							<img class="img-thumbnail" src="images/dragons/dragon-magic-play.jpg" alt="Magic Play Dragon"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/dragons/dragon-majestic.jpg" data-fancybox="gallery-dragon" data-caption="Majestic Dragon">
+							<img class="img-thumbnail" src="images/dragons/dragon-majestic.jpg" alt="Majestic Dragon"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/dragons/dragon-what.jpg" data-fancybox="gallery-dragon" data-caption="What did you Say!?!?">
+							<img class="img-thumbnail" src="images/dragons/dragon-what.jpg" alt="Questioning Dragon"/>
+						</a>
+					</div>
 				</div>
 			</div>
 
@@ -147,6 +150,11 @@
 					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/concept-art/concept-dress.jpg" data-fancybox="gallery-concept" data-caption="Dress Design for heroine Lilean">
 							<img class="img-thumbnail" src="images/concept-art/concept-dress.jpg" alt="Concept Dress Sketch"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="images/concept-art/concept-twins.jpg" data-fancybox="gallery-concept" data-caption="Twins accompanied by friendly vampire">
+							<img class="img-thumbnail" src="images/concept-art/concept-twins.jpg" alt="Concept twins with vampire"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
@@ -167,11 +175,6 @@
 					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/concept-art/concept-halmak.jpg" data-fancybox="gallery-concept" data-caption="Character Design for Halmak">
 							<img class="img-thumbnail" src="images/concept-art/concept-halmak.jpg" alt="Concept Halmak"/>
-						</a>
-					</div>
-					<div class="col-md-3 col-sm-6 text-center">
-						<a href="images/concept-art/concept-twins.jpg" data-fancybox="gallery-concept" data-caption="Twins accompanied by friendly vampire">
-							<img class="img-thumbnail" src="images/concept-art/concept-twins.jpg" alt="Concept twins with vampire"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
