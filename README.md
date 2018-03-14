@@ -45,3 +45,20 @@ Your Milestone 1 passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/p
 ### Edits &amp; Suggestions
 - **Move the `/images` directory inside `/documentation` so they don't get mixed up with the rest of the project. I see this fix is leftover from the Milestone One feedback! This needs to be done prior to development.**
 
+## Final PWP Feedback
+Nice work on creating a simple, attractive and functional gallery website for your sister's artwork. You've done a great job getting FancyBox up and working well with a moderately large number of images. The images are a little bit too large for standard web applications (they're all over 1MB in size), so it might lag a little on a mobile data connection, but we've talked about this stuff already - and it's not a point of primary focus here.
+
+Your code looks great, the project is set up to spec, and the contact form looks like it's working fine.
+
+Nice work - your final PWP Milestone passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).  Your cumulative PWP score is [32/40](https://bootcamp-coders.cnm.edu/projects/personal/rubric/#sample-score) (20/40 is passing).
+
+- Milestone 1: Tier IV
+- Milestone 2a: Tier III
+- Milestone 2b: Tier III
+- PWP Final: III
+
+### Edits &amp; Suggestions
+- Placing your sister's name in the image `alt` text would be good for Google image search if she's wanting to promote her work.
+- Setting a fixed width & height on `.img-thumbnail` (in the CSS) might be a quick way to make the thumbnails all a consistent size - this quick approach would/could skew the thumbnail images a bit though.
+- The scroll on mobile gets a bit long - I might consider adjusting that by placing the thumbnails 2 per row on small screens - this would bring the page length up a bit. This can be done with just a small change in the column classes.
+- Thumbnail layout in the "Abstract" section is not centered like the others on the mobile view. This can be fixed with some simple adjustments to the bootstrap column classes in that section.
