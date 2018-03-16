@@ -145,7 +145,7 @@
 
 
 			<div class="container">
-				<h2>Landscape</h2>
+				<h2>Concept Art</h2>
 				<div class="row">
 					<div class="col-md-3 col-sm-6 text-center">
 						<a href="images/concept-art/concept-dress.jpg" data-fancybox="gallery-concept" data-caption="Dress Design for heroine Lilean">
@@ -187,7 +187,7 @@
 
 
 			<div class="container">
-				<h2>Abstract</h2>
+				<h2>Misc</h2>
 				<div class="row">
 					<div class="col-md-3">
 						<a href="images/misc/misc-anatomy-color.jpg" data-fancybox="gallery-misc" data-caption="Working on Anatomy and Color">
